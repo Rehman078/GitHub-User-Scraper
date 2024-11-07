@@ -1,6 +1,6 @@
 # 🚀 GitHub User Scraper Application (MERN)
 
-A full-stack GitHub User Scraper application built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js). This application enables users to search for and view GitHub profiles, providing a list of scraped user data for convenient access.
+A full-stack GitHub User Scraper application built with the MERN stack. This React.js-based application allows search github user putting url of profile in input and view GitHub profiles, displaying a list of scraped user data for convenient access. The backend, built with Node.js and Express.js, provides a robust RESTful API for efficient web scraping and data management.
 
 ## 📖 Features
 
