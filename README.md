@@ -29,4 +29,6 @@ A full-stack GitHub User Scraper application built with the MERN stack. This Rea
 - **Dotenv**: For managing environment variables.
 - **Nodemon**: Development tool for automatically restarting the server.
 
-## Frontend Picture 
+## Frontend Screenshot
+![Frontend Screenshot](https://github.com/Rehman078/GitHub-User-Scraper/blob/0fe4d3944b17ec019e66957760d18de1c84fd6df/scraper%20user.png)
+
