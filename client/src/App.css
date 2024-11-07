@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(228, 228, 240);
+    color: #333; 
+    font-family: 'Arial', sans-serif;
+    min-height: 100vh; 
+  }
+
+  .btn-check:focus+.btn, .btn:focus {
+    box-shadow: none;
+}
+
+.form-control:focus {
+    box-shadow: none;
+}
