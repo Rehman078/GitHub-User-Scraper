@@ -4,10 +4,10 @@ A full-stack GitHub User Scraper application built with the **MERN stack** (Mong
 
 ## 📖 Features
 
-- **GitHub User Search**: Search for GitHub profiles by username.
-- **Profile Data Display**: View key details of each GitHub user, such as repositories, followers, and bio.
-- **Responsive Design**: Beautiful, responsive UI powered by Bootstrap.
-- **Real-time Data**: Scrapes and displays live GitHub profile data using Puppeteer.
+- **GitHub User Scraping**: Enter a GitHub profile URL, click "Scrape User," and the app fetches, saves, and displays user details such as name, username, email, profile picture, and location in MongoDB.
+- **Profile Data Display**: View all GitHub user details saved in MongoDB for easy access.
+- **Responsive UI**: Elegant and responsive interface built with Bootstrap.
+- **Real-time Profile Data**: Uses Puppeteer to scrape and display live GitHub profile data instantly.
 
 ## 🖥️ Tech Stack
 
@@ -29,19 +29,4 @@ A full-stack GitHub User Scraper application built with the **MERN stack** (Mong
 - **Dotenv**: For managing environment variables.
 - **Nodemon**: Development tool for automatically restarting the server.
 
-## 📂 Project Structure
-
-```plaintext
-GitHub-User-Scraper/
-├── client/            # React frontend
-│   ├── public/
-│   └── src/
-├── server/            # Node.js + Express backend
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   └── utils/
-├── .env               # Environment variables
-├── package.json       # Project configuration
-└── README.md          # Project documentation
-
+## Frontend Picture 
