@@ -30,8 +30,12 @@ A Full-Stack GitHub User Scraper application built with the MERN stack. This Rea
 - **Nodemon**: Development tool for automatically restarting the server.
 
 ## Frontend Screenshot
+
 **GitHub User Scraper Screen**  
+
 ![Frontend Screenshot](https://github.com/Rehman078/GitHub-User-Scraper/blob/0fe4d3944b17ec019e66957760d18de1c84fd6df/scraper%20user.png)
+
 **GitHub User List Screen**  
+
 ![Frontend Screenshot](https://github.com/Rehman078/GitHub-User-Scraper/blob/c993ef9438cd79acb1abc309d12edf73944efe3c/github%20user%20list.png)
 
